@@ -5,6 +5,7 @@ java基于ssm的旅游管理系统网站，可用作毕设
 2.后台：SSM框架（当下最流行）
 
 需要的加扣扣389790849，另接项目代做，定制，技术辅导，bug修复
+，github图片显示不出来，可加扣查看。
 
 ![image](https://github.com/1311236/trade/blob/main/deb1f43ae3aa834bfe8b0283fdf915c.png)
 ![image](https://github.com/1311236/trade/blob/main/9ff13783652f1046cfd28b0cfd6bfe0.png)
